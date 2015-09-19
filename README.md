@@ -1,2 +1,2 @@
 # scalint
-scalar sets intersection
+scalar sets intersection for python (currently 2)
